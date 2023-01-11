@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">추억저장소</string>
+    <string name="edit_text_hint_title">방문장소</string>
+    <string name="edit_text_hint_description">상세정보</string>
+    <string name="edit_text_hint_date">방문날짜</string>
+    <string name="edit_text_hint_location">방문장소검색</string>
+    <string name="text_add_image">이미지 추가</string>
+    <string name="btn_text_save">저장</string>
+    <string name="note_text_no_favorite_places_found_yet">추억의 장소가 없습니다.추가해주세요.</string>
+    <string name="image_content_description">image</string>
+
+    <string name="google_api_key">AIzaSyDUqV8705iPvReoUMNGf0dDbbfRnNUIcAs</string>
+
+    <string name="btn_text_view_on_map">지도 보기</string>
+    <string name="add_place_select_current_location_text">현위치로 선택</string>
+
+
+</resources>
