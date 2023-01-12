@@ -1,6 +1,6 @@
 # PoseDetectionApp
 
-tflite(movenet_flot16)을 사용한 포즈키포인트 인식 어플리케이션 
+tflite(movenet_float161)을 사용한 pose keypoint 인식 어플리케이션 
 
 ## 개발 환경
 
