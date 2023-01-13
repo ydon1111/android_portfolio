@@ -4,9 +4,9 @@ Naver 검색API를 통해 영화데이터를 불러와서 시각화 해주는 �
 
 ## 개발 환경
 
-1. kotlin,retrofit,room 
+1. kotlin,retrofit
 2. targetSdkVersion 32, minSdkVersion 21
-3. jetpack (dataBinding, hilt, lifecycle, paging )사용
+3. jetpack (room ,hilt, lifecycle, paging )사용
 4. glide 사용 
 7. constraintlayout 기반의 UI구성
 8. MVVM 패턴
