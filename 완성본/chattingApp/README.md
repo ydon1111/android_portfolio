@@ -6,7 +6,7 @@
 
 1. kotlin,Firebase
 2. targetSdkVersion 32, minSdkVersion 23
-3. jetpack (dataBinding, lifecycle, recyclerview)사용
+3. jetpack (lifecycle, recyclerview)사용
 4. Firebase 사용 
 5. constraintlayout 기반의 UI구성
 
