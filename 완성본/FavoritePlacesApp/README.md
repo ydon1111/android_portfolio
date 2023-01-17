@@ -10,7 +10,7 @@ Google map API를 통해 지도에 방문한 장소를 남기고 기록하는 �
 4. 외부라이브러리 사용 (CircleImageView,Dexter)
 5. SQLite 사용 (CRUD구현)
 6. constraintlayout 기반의 UI구성
-7. Clean Architecture
+
 
 ## 기본구현
 
