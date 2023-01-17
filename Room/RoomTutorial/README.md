@@ -6,7 +6,7 @@
 
 1. kotlin,Room
 2. targetSdkVersion 33, minSdkVersion 26
-3. jetpack (dataBinding, lifecycle)사용
+3. jetpack  (lifecycle)사용
 4. Room 사용 
 5. constraintlayout 기반의 UI구성
 6. MVVM 패턴
