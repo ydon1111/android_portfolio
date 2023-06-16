@@ -37,6 +37,18 @@ Google map API를 통해 지도에 방문한 장소를 남기고 기록하는 �
 
 ## 구현진행중인 사항
 
+## 앱 이미지 
+<div>
+
+![main](https://github.com/ydon1111/android_portfolio/assets/66169252/2879f808-77fa-4b28-8e29-59bce4f4dd05)
+![placeAdd](https://github.com/ydon1111/android_portfolio/assets/66169252/e54f3ae8-891d-4d4a-afbd-c2386c68b6e2)
+![accescontrol2](https://github.com/ydon1111/android_portfolio/assets/66169252/4a6debe2-7fba-43d3-a42a-2a78254d0df0)
+![accesscontrol](https://github.com/ydon1111/android_portfolio/assets/66169252/9b0b9cf8-b3a7-42bf-8ba5-09d8367fca3d)
+![diary](https://github.com/ydon1111/android_portfolio/assets/66169252/ebaaa8cf-77d6-495c-a2d7-5a18034d2589)
+![list](https://github.com/ydon1111/android_portfolio/assets/66169252/4585c133-cb5d-4112-9511-57022a63f446)
+
+</div>
+
 
 ## 버그 사항
 
